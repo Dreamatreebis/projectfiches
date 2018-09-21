@@ -1,0 +1,946 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.6.17)  7 JAN 2014 14:13
+entering extended mode
+**C:/Users/dimitri.coppens/Google*Drive/documentsDrive/workshops/digitalePen/te
+x/demistificatieVanDeWiiController.tex
+
+("C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePen/te
+x/demistificatieVanDeWiiController.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, greek, gujarati, hindi, hungarian, icelandic, indonesian, inter
+lingua, irish, italian, kannada, kurmanji, latin, latvian, lithuanian, malayala
+m, marathi, mongolian, mongolianlmc, monogreek, ngerman, nynorsk, oriya, panjab
+i, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, sl
+ovenian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukengl
+ish, ukrainian, uppersorbian, usenglishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:\Users\dimitri.coppens\AppData\Roaming\MiKTeX\2.9\tex\latex\a4wide\a4wide.st
+y
+Package: a4wide 1994/08/30
+
+(C:\Users\dimitri.coppens\AppData\Roaming\MiKTeX\2.9\tex\latex\ntgclass\a4.sty
+Package: a4 2004/04/15 v1.2g A4 based page layout
+))
+(C:\Users\dimitri.coppens\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.
+sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(C:\Users\dimitri.coppens\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3
+.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\captionmargin=\dimen103
+\captionmargin@=\dimen104
+\captionwidth=\dimen105
+\caption@tempdima=\dimen106
+\caption@indent=\dimen107
+\caption@parindent=\dimen108
+\caption@hangindent=\dimen109
+)
+\c@ContinuedFloat=\count87
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen110
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen111
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen112
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks16
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks17
+\eqnshift@=\dimen113
+\alignsep@=\dimen114
+\tagshift@=\dimen115
+\tagwidth@=\dimen116
+\totwidth@=\dimen117
+\lineht@=\dimen118
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\dutch.ldf"
+Language: dutch 2005/03/30 v3.8i Dutch support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count100
+\U@D=\dimen119
+)
+Package babel Info: Making " an active character on input line 132.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count101
+))
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count102
+\float@exts=\toks20
+\float@box=\box28
+\@float@everytoks=\toks21
+\@floatcapt=\box29
+)
+(C:\Users\dimitri.coppens\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhd
+r.sty
+\fancy@headwidth=\skip46
+\f@ncyO@elh=\skip47
+\f@ncyO@erh=\skip48
+\f@ncyO@olh=\skip49
+\f@ncyO@orh=\skip50
+\f@ncyO@elf=\skip51
+\f@ncyO@erf=\skip52
+\f@ncyO@olf=\skip53
+\f@ncyO@orf=\skip54
+)
+(C:\Users\dimitri.coppens\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pdfpage
+s.sty
+Package: pdfpages 2013/08/25 v0.4v Insert pages of external PDF documents (AM)
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count103
+\calc@Bcount=\count104
+\calc@Adimen=\dimen122
+\calc@Bdimen=\dimen123
+\calc@Askip=\skip55
+\calc@Bskip=\skip56
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count105
+\calc@Cskip=\skip57
+)
+(C:\Users\dimitri.coppens\AppData\Roaming\MiKTeX\2.9\tex\latex\eso-pic\eso-pic.
+sty
+Package: eso-pic 2010/10/06 v2.0c eso-pic (RN)
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+))
+(C:\Users\dimitri.coppens\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.st
+y
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+(C:\Users\dimitri.coppens\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pppdfte
+x.def
+File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box30
+\AM@toc@title=\toks22
+\c@AM@survey=\count106
+\AM@templatesizebox=\box31
+)
+("C:\Users\dimitri.coppens\Google Drive\documentsDrive\workshops\digitalePen\te
+x\demistificatieVanDeWiiController.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 61.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ppl.fd"
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(C:\Users\dimitri.coppens\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.
+mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count107
+\scratchdimen=\dimen124
+\scratchbox=\box32
+\nofMPsegments=\count108
+\nofMParguments=\count109
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen125
+\MPnumerator=\count111
+\makeMPintoPDFobject=\count112
+\everyMPtoPDFconversion=\toks24
+)
+\AtBeginShipoutBox=\box33
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 62.
+LaTeX Font Info:    Try loading font information for U+msa on input line 62.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 62.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<./images/esmerelda.jpg, id=1, 844.8363pt x 597.432pt>
+File: ./images/esmerelda.jpg Graphic file (type jpg)
+
+<use ./images/esmerelda.jpg>
+Package pdftex.def Info: ./images/esmerelda.jpg used on input line 71.
+(pdftex.def)             Requested size: 441.01772pt x 311.86975pt.
+ [1
+
+{C:/Users/dimitri.coppens/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C
+:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePen/tex/i
+mages/esmerelda.jpg>]
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 77.
+
+<./images/montageInfraroodPen.jpg, id=8, 767.0256pt x 552.3837pt>
+File: ./images/montageInfraroodPen.jpg Graphic file (type jpg)
+
+<use ./images/montageInfraroodPen.jpg>
+Package pdftex.def Info: ./images/montageInfraroodPen.jpg used on input line 81
+.
+(pdftex.def)             Requested size: 483.69684pt x 348.34914pt.
+
+Overfull \hbox (41.04309pt too wide) in paragraph at lines 81--82
+ [] 
+ []
+
+[2 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePen/
+tex/images/montageInfraroodPen.jpg>]
+<./images/newYorkTimesWiiController01.jpg, id=12, 703.62875pt x 458.71375pt>
+File: ./images/newYorkTimesWiiController01.jpg Graphic file (type jpg)
+
+<use ./images/newYorkTimesWiiController01.jpg>
+Package pdftex.def Info: ./images/newYorkTimesWiiController01.jpg used on input
+ line 89.
+(pdftex.def)             Requested size: 199.16928pt x 129.83885pt.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 90.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 93.
+
+<./images/wiiControllerSchets.jpg, id=13, 509.0217pt x 468.5505pt>
+File: ./images/wiiControllerSchets.jpg Graphic file (type jpg)
+
+<use ./images/wiiControllerSchets.jpg>
+Package pdftex.def Info: ./images/wiiControllerSchets.jpg used on input line 10
+2.
+(pdftex.def)             Requested size: 199.16928pt x 183.33452pt.
+Missing character: There is no Â in font pplr7t!
+Missing character: There is no ´ in font pplr7t!
+Missing character: There is no Â in font pplr7t!
+Missing character: There is no ´ in font pplr7t!
+ [3 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePen
+/tex/images/newYorkTimesWiiController01.jpg> <C:/Users/dimitri.coppens/Google D
+rive/documentsDrive/workshops/digitalePen/tex/images/wiiControllerSchets.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+<./images/newYorkTimesWiiController02.jpg, id=18, 703.62875pt x 458.71375pt>
+File: ./images/newYorkTimesWiiController02.jpg Graphic file (type jpg)
+
+<use ./images/newYorkTimesWiiController02.jpg>
+Package pdftex.def Info: ./images/newYorkTimesWiiController02.jpg used on input
+ line 114.
+(pdftex.def)             Requested size: 284.52756pt x 185.49107pt.
+ [4 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePen
+/tex/images/newYorkTimesWiiController02.jpg>]
+<./images/wiiGebruikteTechnologie.jpg, id=22, 662.475pt x 472.164pt>
+File: ./images/wiiGebruikteTechnologie.jpg Graphic file (type jpg)
+
+<use ./images/wiiGebruikteTechnologie.jpg>
+Package pdftex.def Info: ./images/wiiGebruikteTechnologie.jpg used on input lin
+e 123.
+(pdftex.def)             Requested size: 284.52756pt x 202.7888pt.
+
+<./images/wiiControllerSchetsOpticalSensor1.jpg, id=23, 398.6895pt x 218.0145pt
+>
+File: ./images/wiiControllerSchetsOpticalSensor1.jpg Graphic file (type jpg)
+ <use ./images/wiiControllerSchetsOpticalSensor1.jpg>
+Package pdftex.def Info: ./images/wiiControllerSchetsOpticalSensor1.jpg used on
+ input line 131.
+(pdftex.def)             Requested size: 227.62204pt x 124.46913pt.
+
+<./images/wiiControllerSchetsOpticalSensor2.jpg, id=24, 398.6895pt x 218.0145pt
+>
+File: ./images/wiiControllerSchetsOpticalSensor2.jpg Graphic file (type jpg)
+ <use ./images/wiiControllerSchetsOpticalSensor2.jpg>
+Package pdftex.def Info: ./images/wiiControllerSchetsOpticalSensor2.jpg used on
+ input line 137.
+(pdftex.def)             Requested size: 227.62204pt x 124.46913pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 140.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <10.95> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 140.
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+
+ []
+
+[5 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePen/
+tex/images/wiiGebruikteTechnologie.jpg> <C:/Users/dimitri.coppens/Google Drive/
+documentsDrive/workshops/digitalePen/tex/images/wiiControllerSchetsOpticalSenso
+r1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+
+ []
+
+[6 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePen/
+tex/images/wiiControllerSchetsOpticalSensor2.jpg>]
+<./images/giancoli_2_p1257.jpg, id=32, 502.0356pt x 324.7332pt>
+File: ./images/giancoli_2_p1257.jpg Graphic file (type jpg)
+
+<use ./images/giancoli_2_p1257.jpg>
+Package pdftex.def Info: ./images/giancoli_2_p1257.jpg used on input line 150.
+(pdftex.def)             Requested size: 284.52756pt x 184.03947pt.
+
+<./images/schemaLedWikipedia.jpg, id=33, 2007.5pt x 2230.3325pt>
+File: ./images/schemaLedWikipedia.jpg Graphic file (type jpg)
+
+<use ./images/schemaLedWikipedia.jpg>
+Package pdftex.def Info: ./images/schemaLedWikipedia.jpg used on input line 157
+.
+(pdftex.def)             Requested size: 142.26378pt x 158.04501pt.
+
+<./images/wikipediaChemieLed.png, id=34, 2007.5pt x 1413.28pt>
+File: ./images/wikipediaChemieLed.png Graphic file (type png)
+
+<use ./images/wikipediaChemieLed.png>
+Package pdftex.def Info: ./images/wikipediaChemieLed.png used on input line 164
+.
+(pdftex.def)             Requested size: 142.26378pt x 100.14734pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePen/
+tex/images/giancoli_2_p1257.jpg> <C:/Users/dimitri.coppens/Google Drive/documen
+tsDrive/workshops/digitalePen/tex/images/schemaLedWikipedia.jpg>]
+<./images/inDeGloriaDenDraad.jpg, id=40, 401.5pt x 299.1175pt>
+File: ./images/inDeGloriaDenDraad.jpg Graphic file (type jpg)
+
+<use ./images/inDeGloriaDenDraad.jpg>
+Package pdftex.def Info: ./images/inDeGloriaDenDraad.jpg used on input line 175
+.
+(pdftex.def)             Requested size: 142.26378pt x 105.9889pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--189
+
+ []
+
+<./images/emGolf.jpg, id=41, 718.3638pt x 541.0614pt>
+File: ./images/emGolf.jpg Graphic file (type jpg)
+
+<use ./images/emGolf.jpg>
+Package pdftex.def Info: ./images/emGolf.jpg used on input line 194.
+(pdftex.def)             Requested size: 441.01772pt x 332.16875pt.
+ [8 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePen
+/tex/images/wikipediaChemieLed.png> <C:/Users/dimitri.coppens/Google Drive/docu
+mentsDrive/workshops/digitalePen/tex/images/inDeGloriaDenDraad.jpg>] <./images/
+golflengtes.jpg, id=46, 878.5623pt x 693.5511pt>
+File: ./images/golflengtes.jpg Graphic file (type jpg)
+
+<use ./images/golflengtes.jpg>
+Package pdftex.def Info: ./images/golflengtes.jpg used on input line 202.
+(pdftex.def)             Requested size: 441.01772pt x 348.15044pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (0.25777pt too wide) in paragraph at lines 209--213
+\OT1/ppl/m/n/10.95 dis-tan-ces (using short wa-ve-length ra-dio trans-mis-si-on
+s in the ISM band from 2400-2480 MHz)
+ []
+
+[9 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePen/
+tex/images/emGolf.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 224--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+
+ []
+
+[10 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePen
+/tex/images/golflengtes.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+
+ []
+
+<./images/newYorkTimesWiiController03.jpg, id=53, 703.62875pt x 458.71375pt>
+File: ./images/newYorkTimesWiiController03.jpg Graphic file (type jpg)
+
+<use ./images/newYorkTimesWiiController03.jpg>
+Package pdftex.def Info: ./images/newYorkTimesWiiController03.jpg used on input
+ line 241.
+(pdftex.def)             Requested size: 284.52756pt x 185.49107pt.
+
+Overfull \hbox (85.32703pt too wide) in paragraph at lines 261--263
+\OT1/ppl/m/n/10.95 boekje van geert cal-l-e-baut http://www.nytimes.com/2006/12
+/21/technology/21howw.html?ref=technology 
+ []
+
+
+<./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf, id=54, 598.235
+pt x 845.1575pt>
+File: ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf Graphic fi
+le (type pdf)
+
+<use ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf>
+Package pdftex.def Info: ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMach
+ines.pdf used on input line 264.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf Graphic fi
+le (type pdf)
+
+<use ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf>
+Package pdftex.def Info: ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMach
+ines.pdf used on input line 264.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf Graphic fi
+le (type pdf)
+
+<use ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf>
+Package pdftex.def Info: ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMach
+ines.pdf used on input line 264.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+ [11 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePe
+n/tex/images/newYorkTimesWiiController03.jpg>] [12]
+<./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf, id=64, page=1,
+ 598.235pt x 845.1575pt>
+File: ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf Graphic fi
+le (type pdf)
+
+<use ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf, page 1>
+Package pdftex.def Info: ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMach
+ines.pdf, page1 used on input line 264.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf Graphic fi
+le (type pdf)
+
+<use ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf, page 1>
+Package pdftex.def Info: ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMach
+ines.pdf, page1 used on input line 264.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf Graphic fi
+le (type pdf)
+
+<use ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf, page 1>
+Package pdftex.def Info: ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMach
+ines.pdf, page1 used on input line 264.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf Graphic fi
+le (type pdf)
+
+<use ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf, page 1>
+Package pdftex.def Info: ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMach
+ines.pdf, page1 used on input line 264.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf Graphic fi
+le (type pdf)
+
+<use ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf, page 1>
+Package pdftex.def Info: ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMach
+ines.pdf, page1 used on input line 264.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+
+[13 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePen
+/tex/images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf>]
+<./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf, id=87, page=2,
+ 598.235pt x 845.1575pt>
+File: ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf Graphic fi
+le (type pdf)
+
+<use ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf, page 2>
+Package pdftex.def Info: ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMach
+ines.pdf, page2 used on input line 264.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf Graphic fi
+le (type pdf)
+
+<use ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf, page 2>
+Package pdftex.def Info: ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMach
+ines.pdf, page2 used on input line 264.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf Graphic fi
+le (type pdf)
+
+<use ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf, page 2>
+Package pdftex.def Info: ./images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMach
+ines.pdf, page2 used on input line 264.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+
+[14 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePen
+/tex/images/newYorkTimes_atTheHeartOfTheWiiMicronSizeMachines.pdf>]
+<./images/wikipediaWiiController.pdf, id=111, 597.50786pt x 845.04686pt>
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf used on input line
+ 265.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf used on input line
+ 265.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+
+<./images/wikipediaWiiController.pdf, id=114, page=1, 597.50786pt x 845.04686pt
+>
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+ <use ./images/wikipediaWiiController.pdf, page 1>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page1 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 1>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page1 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 1>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page1 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 1>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page1 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 1>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page1 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [15 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePe
+n/tex/images/wikipediaWiiController.pdf>]
+<./images/wikipediaWiiController.pdf, id=141, page=2, 597.50786pt x 845.04686pt
+>
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+ <use ./images/wikipediaWiiController.pdf, page 2>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page2 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 2>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page2 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 2>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page2 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [16 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePe
+n/tex/images/wikipediaWiiController.pdf>]
+<./images/wikipediaWiiController.pdf, id=145, page=3, 597.50786pt x 845.04686pt
+>
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+ <use ./images/wikipediaWiiController.pdf, page 3>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page3 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 3>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page3 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 3>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page3 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [17 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePe
+n/tex/images/wikipediaWiiController.pdf>]
+<./images/wikipediaWiiController.pdf, id=150, page=4, 597.50786pt x 845.04686pt
+>
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+ <use ./images/wikipediaWiiController.pdf, page 4>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page4 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 4>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page4 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 4>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page4 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [18 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePe
+n/tex/images/wikipediaWiiController.pdf>]
+<./images/wikipediaWiiController.pdf, id=155, page=5, 597.50786pt x 845.04686pt
+>
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+ <use ./images/wikipediaWiiController.pdf, page 5>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page5 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 5>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page5 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 5>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page5 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [19 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePe
+n/tex/images/wikipediaWiiController.pdf>]
+<./images/wikipediaWiiController.pdf, id=162, page=6, 597.50786pt x 845.04686pt
+>
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+ <use ./images/wikipediaWiiController.pdf, page 6>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page6 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 6>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page6 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 6>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page6 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [20 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePe
+n/tex/images/wikipediaWiiController.pdf>]
+<./images/wikipediaWiiController.pdf, id=167, page=7, 597.50786pt x 845.04686pt
+>
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+ <use ./images/wikipediaWiiController.pdf, page 7>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page7 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 7>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page7 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 7>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page7 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [21 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePe
+n/tex/images/wikipediaWiiController.pdf>]
+<./images/wikipediaWiiController.pdf, id=171, page=8, 597.50786pt x 845.04686pt
+>
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+ <use ./images/wikipediaWiiController.pdf, page 8>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page8 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 8>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page8 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 8>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page8 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [22 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePe
+n/tex/images/wikipediaWiiController.pdf>]
+<./images/wikipediaWiiController.pdf, id=177, page=9, 597.50786pt x 845.04686pt
+>
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+ <use ./images/wikipediaWiiController.pdf, page 9>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page9 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 9>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page9 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 9>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page9 used on inp
+ut line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [23 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePe
+n/tex/images/wikipediaWiiController.pdf>]
+<./images/wikipediaWiiController.pdf, id=183, page=10, 597.50786pt x 845.04686p
+t>
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+ <use ./images/wikipediaWiiController.pdf, page 10>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page10 used on in
+put line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 10>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page10 used on in
+put line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 10>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page10 used on in
+put line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [24 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePe
+n/tex/images/wikipediaWiiController.pdf>]
+<./images/wikipediaWiiController.pdf, id=190, page=11, 597.50786pt x 845.04686p
+t>
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+ <use ./images/wikipediaWiiController.pdf, page 11>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page11 used on in
+put line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 11>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page11 used on in
+put line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 11>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page11 used on in
+put line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [25 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePe
+n/tex/images/wikipediaWiiController.pdf>]
+<./images/wikipediaWiiController.pdf, id=197, page=12, 597.50786pt x 845.04686p
+t>
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+ <use ./images/wikipediaWiiController.pdf, page 12>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page12 used on in
+put line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 12>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page12 used on in
+put line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 12>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page12 used on in
+put line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [26 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePe
+n/tex/images/wikipediaWiiController.pdf>]
+<./images/wikipediaWiiController.pdf, id=201, page=13, 597.50786pt x 845.04686p
+t>
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+ <use ./images/wikipediaWiiController.pdf, page 13>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page13 used on in
+put line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 13>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page13 used on in
+put line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: ./images/wikipediaWiiController.pdf Graphic file (type pdf)
+
+<use ./images/wikipediaWiiController.pdf, page 13>
+Package pdftex.def Info: ./images/wikipediaWiiController.pdf, page13 used on in
+put line 265.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [27 <C:/Users/dimitri.coppens/Google Drive/documentsDrive/workshops/digitalePe
+n/tex/images/wikipediaWiiController.pdf>]
+("C:\Users\dimitri.coppens\Google Drive\documentsDrive\workshops\digitalePen\te
+x\demistificatieVanDeWiiController.aux") ) 
+Here is how much of TeX's memory you used:
+ 5049 strings out of 493944
+ 75957 string characters out of 3145851
+ 131840 words of memory out of 3000000
+ 8236 multiletter control sequences out of 15000+200000
+ 20923 words of font info for 57 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 39i,18n,43p,1114b,440s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/ur
+w/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palati
+no/uplbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplr
+8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
+
+Output written on demistificatieVanDeWiiController.pdf (27 pages, 9071802 bytes
+).
+PDF statistics:
+ 220 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 186 words of extra memory for PDF output out of 10000 (max. 10000000)
+

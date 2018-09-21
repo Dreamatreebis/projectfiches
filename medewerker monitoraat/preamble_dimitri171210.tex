@@ -1,0 +1,126 @@
+\documentclass[10pt,a4paper]{article}
+
+%----PACKAGES---
+%----layout 
+%\usepackage{a4wide}
+\usepackage[landscape]{geometry}
+\usepackage{float}
+\usepackage{framed}
+
+%----figuren en pdfs
+
+\usepackage{graphicx}
+\usepackage{pdfpages}
+\usepackage{subfigure}
+
+
+\usepackage{gensymb} %voor \degree (om ° teken te gebruiken)
+%----kleur
+
+
+%\usepackage{color, colortbl}
+\usepackage{xcolor}
+%\usepackage[dvipsnames]{xcolor}
+%\usepackage{color}
+\usepackage{soul} % voor het commando: 'highlight' \hl{foo}
+\usepackage{colortbl}
+\definecolor{Gray}{gray}{0.9}
+\definecolor{LightCyan}{rgb}{0.88,1,1}
+%\newcommand{\fluo}[1]{$$\fcolorbox{red}{white}{\color{yellow}#1} \rightarrow \text{fluo}	$$ 	}
+\newcommand{\mathcolorbox}[2]{\colorbox{#1}{$\displaystyle #2$}}
+
+%----wiskunde
+%%%% aanpassing van letter d in afgeleide naar...
+\newcommand{\dx}{\hspace{2pt}dx}
+\newcommand{\dd}[1]{\hspace{2pt}d#1}
+%\usepackage{amsrefs}
+\usepackage{amsthm}
+\usepackage{amssymb}%nodig om mathbb te kunnen gebruiken,
+\usepackage{amsmath}%nodig om zelf math operator te kunnen definiëren
+% bijvoorbeeld voor verzameling van reële getallen
+
+%---(hyper)links
+\usepackage[pdftex,bookmarks,colorlinks]{hyperref}
+
+%----LOCATIE CONTENT---
+
+\graphicspath{ {./content/} }
+%\graphicspath{ {C:/Users/dimitri.coppens/Dropbox/jc_figuren/content/} }
+%aparte map voor pdf mogelijk? 
+%\graphicspath{ {C:/Users/dimitri.coppens/Dropbox/bubeba_figuren/pdf} }
+
+%-----------------------
+%\usepackage[utf8]{inputenc}
+\usepackage[utf8]{inputenc}
+\usepackage[dutch]{babel}
+
+
+
+
+\usepackage[nottoc]{tocbibind}
+\usepackage[none]{hyphenat}
+
+
+\usepackage{multicol}
+
+%----COMMANDO'S: AANPASSINGEN ---
+\renewcommand*\rmdefault{ppl} %héél schoon lettertype :-)
+\hypersetup{colorlinks=true,urlcolor=blue}
+\renewcommand{\labelitemii}{$\triangleright$}%aanpassing van de 'bullets' 
+%\renewcommand{\labelitemii}{\makebox[0pt][l]{$\square$}\raisebox{.15ex}{\hspace{0.1em}$\checkmark$}}%aanpassing van de 'bullets' van naar checkboxes
+
+%--- LAYOUT ---
+
+\setlength{\parindent}{0pt}%zorgt ervoor dat er niet wordt ingesprongen in het begin van een alinea
+%aanpassing tekstbreedte en breedte van de kolom in de zijkant
+%\hoffset=-0in 
+
+% nota's in zijkanten
+%\reversemarginpar
+\marginparwidth=2in
+\usepackage[paper=A4,pagesize]{typearea}
+\usepackage{marginnote}
+%\usepackage[top=Bcm, bottom=Hcm, outer=Ccm, inner=Acm, heightrounded, marginparwidth=Ecm, marginparsep=Dcm]{geometry}
+%\marginnote{typeset text here...}[Fcm]
+%\marginparsep=-1cm
+
+%marginparwidth (E) is the width of the margin note,
+%marginparsep (D) is the separation between the paragraph and the margin note,
+%F is the downwards vertical offset from the first line the margin note was written (negative values of F shift the margin note upwards), and
+%the value G = C − (D + E) is the separation between the edge of the margin note and the edge.
+
+%--- van Marc Coppens
+
+
+
+\newtheorem*{voorbeeld}{Voorbeeld} \newtheorem*{eigenschap}{Eigenschap}
+
+
+%----COMMANDO'S: ZELF GESCHREVEN---
+\newcommand{\link}[2]{\color{blue}\underline{\href{#1}{#2}} \color{black}}
+
+\newcommand{\opmerking}[1]{\marginpar{$\leftarrow$ \small{\emph{#1}}}}
+
+\newcommand{\taak}[1]{\marginpar{\vspace{0.5em} #1$\rightarrow$}}
+\newcommand{\ok}[0]{\marginpar{ OK$\rightarrow$}}
+\newcommand{\nvt}[0]{\marginpar{ NVT$\rightarrow$}}		
+\newcommand{\vraag}[1]{\marginpar{\vspace{0.5em} \emph{\footnotesize #1}$\leftarrow$}}
+\newcommand{\meerprijs}[1]{\textbf{#1}\marginpar{\emph{meerprijs} $\rightarrow$}}
+\newcommand{\minprijs}[1]{\textbf{#1}\marginpar{\emph{minprijs} $\rightarrow$}}
+\newcommand{\kost}[1]{\textbf{#1} \marginpar{kost bouwheer}}
+\renewcommand{\labelitemi}{$\triangleright$}%aanpassing van de 'bullets' van 'itemize'
+%\renewcommand{\labelitemii}{$\circ$}%aanpassing van de 'bullets' van 'itemize'
+%\labelenumiii
+%\labelenumiv
+
+\newcommand{\mx}[1]{\ensuremath{\mathsf{#1}}}%matrix in juiste lettertype
+
+\DeclareMathOperator{\adj}{adj}
+\DeclareMathOperator{\rang}{Rg}
+
+\newcommand{\fout}[1]{$$\fcolorbox{red}{white}{\color{red}#1} \rightarrow \text{fout}	$$ 	}
+\newcommand{\juist}[1]{$$\fcolorbox{OliveGreen}{white}{\color{OliveGreen}#1}\rightarrow \text{juist}$$ }
+\newcommand{\vakje}[1]{\fcolorbox{blue}{white}{\color{blue}#1}}
+%----------------------------------------------------------------voor tex file LIMIETEN ----------------------------------------------
+
+ 
